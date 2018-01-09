@@ -91,7 +91,7 @@ body {
     background-color: #ff3334;
     transform-origin: right top;
     transform: scale(0, 1);
-    transition: color 0.3s,transform 0.2s ease-out;
+    transition: color 0.5s,transform 0.4s ease-out;
 }
 
 .navlinksCon > #navbarH > ul > li > a:hover::before, a:focus::before {
