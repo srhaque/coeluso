@@ -100,7 +100,7 @@ body {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #ff3334;
+    border-color: transparent;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
@@ -108,23 +108,23 @@ body {
 
 .navbar-default .navbar-toggle:hover {
     background-color: transparent;
-    border-color: #fff;
+    border-color: #2a5da3;
 }
 
 .navbar-default .navbar-toggle:focus {
     background-color: transparent;
-    border: 1px solid #ff3334;
+    border: 1px solid #fff;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #2a5da3;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    transition: all 0.2s;
+    background-color: #ff3334;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
 }
 
 .navbar-default .navbar-toggle .icon-bar:hover {
-    background-color: #ff3334;
+    background-color: #2a5da3;
 }
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
