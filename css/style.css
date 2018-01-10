@@ -327,6 +327,10 @@ body {
     margin-bottom: 8px;
 }
 
+.landscapeContent > .landText > h1 > span {
+    color: #2a5da3;
+}
+
 .landscapeContent > .landText > p {
     color: #d3d3d3;
     font-size: 10px;
